@@ -1,0 +1,19 @@
+name: Cite des Rois
+version: 1.0
+author: Maygo
+main: fr.maygo.cite.Main
+commands:
+  setteam:
+  emeralds:
+  cite:
+  monde:
+  sethome:
+  home:
+  classement:
+  armorstand:
+  villager:
+  region:
+  ec:
+  lc:
+  tpa:
+  tpaaccept:
